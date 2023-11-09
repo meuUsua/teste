@@ -20,6 +20,23 @@
       "descrição": "Descrição do jogo 3",
       "foto": "jogo3.PNG",
       "preço": 222
+    },
+    {
+      "id": 4
+    },
+    {
+      "produto": "Jogo 4",
+      "descrição": "Descrição do Jogo 4",
+      "foto": "jogo4.PNG",
+      "preco": "157",
+      "id": 5
+    },
+    {
+      "produto": "Jogo 4",
+      "descrição": "Descrição do Jogo 4",
+      "foto": "jogo4.PNG",
+      "preco": "157",
+      "id": 6
     }
   ]
 }
